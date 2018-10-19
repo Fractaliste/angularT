@@ -1,0 +1,21 @@
+{
+  "generator-ngx-rocket": {
+    "version": "5.2.0",
+    "props": {
+      "location": "path",
+      "appName": "ntmf",
+      "target": [
+        "web"
+      ],
+      "pwa": false,
+      "ui": "bootstrap",
+      "auth": false,
+      "lazy": false,
+      "angulartics": false,
+      "prettier": false,
+      "projectName": "ntmf",
+      "packageManager": "npm",
+      "mobile": []
+    }
+  }
+}
